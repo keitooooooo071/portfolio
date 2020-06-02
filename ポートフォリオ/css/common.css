@@ -555,6 +555,26 @@ input, select {
     .works-text h3 {
         font-size: 40px;
     }
+
+    
+    .profile-right div {
+        width: 80%;
+    }
+
+    
+    .profile-right img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .profile-left p {
+        font-size: 12px;
+    }
+
+    
+    .profile-left {
+        width: 23%;
+    }
 }
 
 
